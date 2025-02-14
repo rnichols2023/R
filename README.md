@@ -23,3 +23,7 @@
 - [Smartphone_Survey.csv](https://github.com/rnichols2023/R/blob/main/smartphone_survey.csv)
 - [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%204%20Homework%202.R)
 - [Preffered OS Stacked Bar Chart](https://github.com/rnichols2023/R/blob/main/Preferred%20OS%20Stacked%20Bar%20Chart.png)
+- ## One-Sample T-Test, Power, and 2-Sample T-Test
+- [This document covers the questions I want to answer in R.](https://github.com/rnichols2023/R/blob/main/Energy%20Drink.pdf)
+- [Reaction-times.csv](https://github.com/rnichols2023/R/blob/main/reaction_times.csv)
+- [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%204%20Homework%203.R)
