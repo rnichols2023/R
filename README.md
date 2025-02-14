@@ -13,3 +13,8 @@
 - [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%203%20Homework.R)
 - [Boxplot of Treatment and Control Scores](https://github.com/rnichols2023/R/blob/main/Boxplot%20of%20Treatment%20and%20Control%20Scores.png)
 - [Scatterplot of Exam Scores](https://github.com/rnichols2023/R/blob/main/Exam%20Scores%20Scatterplot.png)
+## One-Way ANOVA, Power, and Boxplot
+- [This document covers the questions I want to answer in R.](https://github.com/rnichols2023/R/blob/main/Weight%20Loss%20Data.pdf)
+- [Weight Loss Data Set](https://github.com/rnichols2023/R/blob/main/weight_loss_data.csv)
+- [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%204%20Homework%201.R)
+- [Boxplot of Exercise Types](https://github.com/rnichols2023/R/blob/main/Boxplot%20of%20Exercise%20Types.png)
