@@ -27,3 +27,13 @@
 - [This document covers the questions I want to answer in R.](https://github.com/rnichols2023/R/blob/main/Energy%20Drink.pdf)
 - [Reaction-times.csv](https://github.com/rnichols2023/R/blob/main/reaction_times.csv)
 - [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%204%20Homework%203.R)
+## Linear Regression
+- [This document covers the questions I want to answer in R.](https://github.com/rnichols2023/R/blob/main/Piece_Rate%20Problem.pdf)
+- [Incentive_pay.csv](https://github.com/rnichols2023/R/blob/main/incentive_pay.csv)
+- [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%205%20Practice.R)
+- [Scatterplot Example 1](https://github.com/rnichols2023/R/blob/main/Scatterplot%20Example%201.png)
+- [Scatterplot Example 2](https://github.com/rnichols2023/R/blob/main/Scatterplot%20Example%202.png)
+- [Smoothed Conditional Plot: Base Wage/Productivity](https://github.com/rnichols2023/R/blob/main/Geom%20Smooth%20Base_Rate%20Productivity.png)
+- [Smoothed Conditional Plot: Pay Per Item/Productivity](https://github.com/rnichols2023/R/blob/main/Geom%20Smooth%20Pay_Per_Item%20Productivity.png)
+- [Histogram of Residuals](https://github.com/rnichols2023/R/blob/main/Histogram%20of%20Residuals.png)
+- [Scatterplot of Residuals](https://github.com/rnichols2023/R/blob/main/Scatterplot%20of%20Residuals.png)
