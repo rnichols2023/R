@@ -18,3 +18,8 @@
 - [Weight Loss Data Set](https://github.com/rnichols2023/R/blob/main/weight_loss_data.csv)
 - [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%204%20Homework%201.R)
 - [Boxplot of Exercise Types](https://github.com/rnichols2023/R/blob/main/Boxplot%20of%20Exercise%20Types.png)
+## Chi-Square Test for Independence, Contingency Tables, Stacked Bar Chart
+- [This document covers the questions I want to answer in R.](https://github.com/rnichols2023/R/blob/main/Preferred%20OS.pdf)
+- [Smartphone_Survey.csv](https://github.com/rnichols2023/R/blob/main/smartphone_survey.csv)
+- [Code in R](https://github.com/rnichols2023/R/blob/main/Unit%204%20Homework%202.R)
+- [Preffered OS Stacked Bar Chart](https://github.com/rnichols2023/R/blob/main/Preferred%20OS%20Stacked%20Bar%20Chart.png)
